@@ -1,0 +1,10 @@
+{
+  "id": "tainiomania-el",
+  "name": "Tainiomania (Greek)",
+  "version": "1.0.0",
+  "description": "Greek streaming provider targeting tainiomania.online with 2nd player extraction.",
+  "filename": "providers/tainiomania.js",
+  "supportedTypes": ["movie", "tv"],
+  "enabled": true,
+  "contentLanguage": ["el"]
+}
